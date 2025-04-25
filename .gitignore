@@ -5,6 +5,7 @@
 /.gradle/
 /build/
 .gradletasknamecache
+local.properties
 
 #Intellij
 /out/
